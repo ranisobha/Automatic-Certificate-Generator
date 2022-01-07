@@ -1,0 +1,65 @@
+.container{
+    background: #fff;
+    box-shadow: 0px 0px 10px #000;
+    border-radius: 30px;
+    padding: 30px;
+    margin:auto;
+}
+h2{
+    color: rebeccapurple;
+}
+label{
+    float:left;
+    color: rebeccapurple;
+    font-weight: bold;
+}
+.button{
+    color:#fff;
+    background-color: rebeccapurple;
+    border-radius: 2%;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    width: 200px;;
+}
+
+
+ #certificatewrapper h2 {
+    margin: 25px;
+    position: absolute;
+    left: 43%;
+    top: 130%;
+    font-size: 1.5em;
+  }
+   #certificatewrapper h1 {
+    margin: 25px;
+    position: absolute;
+    left: 35%;
+    top: 145%;
+    font-size: 1.9em;
+  }
+   #certificatewrapper h4 {
+    margin: 25px;
+    position: absolute;
+    left: 47%;
+    top: 182%;
+    font-size: 1.2em;
+  }
+   #certificatewrapper h6 {
+    margin: 25px;
+    position: absolute;
+    left: 22%;
+    top: 182%;
+    font-size: 1.2em;
+  }
+   button {
+    padding: 10px 15px;
+    margin: 20px 0;
+    cursor: pointer;
+    border: none;
+    border-radius: 6%;
+    background-color: rebeccapurple;
+    color: #fff;
+  }
+  
